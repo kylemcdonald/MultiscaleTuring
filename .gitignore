@@ -1,5 +1,3 @@
-example-pulse/
-
 *.depend
 *.layout
 *.mode*v3
@@ -19,5 +17,3 @@ obj/
 bin/
 build/
 !data/
-
-ofxCv.wiki/
